@@ -1,5 +1,9 @@
 # Sistema de Trazabilidad de Trámites Escolares
 
+<a href="https://codeclimate.com/github/ProyectoIntegrador2018/stte-backend/maintainability"><img src="https://api.codeclimate.com/v1/badges/f48fbc1b8aaac6df9a12/maintainability" /></a>
+
+
+
 Aplicación web que permite visualizar el estatus de los trámites escolares en la operación interna y además visualizar la consulta por parte de los usuarios hasta que concluya su trámite o petición.
 
 ## Tabla de contenidos
