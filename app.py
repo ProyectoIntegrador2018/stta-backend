@@ -50,6 +50,5 @@ def addDocument():
 
     return APIFilSuccess.response(APIFilResponse.OK, data=data)
 
-
 if __name__ == '__main__':
     app.run()
