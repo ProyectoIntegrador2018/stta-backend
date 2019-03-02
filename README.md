@@ -12,9 +12,11 @@ Aplicación web que permite visualizar el estatus de los trámites escolares en 
 * [URLs de ambiente](#urls-de-ambiente)
 * [Equipo](#equipo)
 * [Recursos de gestion](#recursos-de-gestion)
-* [Crear el proyecto](#crear-el-proyecto)
-* [Correr el proyecto para desarrollo](#correr-el-proyecto-para-desarrollo)
-* [Detener el proyecto](#detener-el-proyecto)
+* [Stack tecnológico](#Stack-Tecnologico)
+* [Desarrollo](#desarrollo)
+* [Repositorios](#clonar-repositorioa)
+* [Backend](#backend)
+* [Frontend](#frontend)
 
 ## Detalles del cliente
 
