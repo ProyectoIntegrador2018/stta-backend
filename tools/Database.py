@@ -11,9 +11,9 @@ class Database:
     @staticmethod
     def callSP(spName, spParameters=[], withColNames=False, asDict=False):
         try:
-            connection = pymysql.connect(host="localhost",
-                                         user="root",
-                                         passwd="",
+            connection = pymysql.connect(host="mysql-stte.cpmhc4vavlgx.us-east-2.rds.amazonaws.com",
+                                         user="tramitestec",
+                                         passwd="Ingser19&",
                                          db="STTEDB", charset='UTF8')
             # create a cursor
             cur = connection.cursor()
