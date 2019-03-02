@@ -1,6 +1,6 @@
 # Despliegue del proyecto
 
-### 1. Clonar el los repositorios
+### 1. Clonar los repositorios
 Backend
 ```
 $ git clone https://github.com/ProyectoIntegrador2018/stte-backend.git
@@ -13,7 +13,7 @@ $ git clone https://github.com/ProyectoIntegrador2018/stte-frontend.git
 
 ## Backend
 
-### Instalar librerias Librerias 
+### Instalar librerias  
 
 Ya instalado si se está usando Python 2 >=2.7.9 o Python 3 >=3.4
 * Flask
@@ -34,7 +34,7 @@ $ pip install -U status
 ```
 ### Ejecutar
 
-Dentro del folder del pryecto ejecutar:
+Dentro del folder del proyecto ejecutar:
 ```
 $ python -m flask run
 ```
@@ -47,7 +47,7 @@ $ CTRL+C
 
 ## Frontend
 
-### Instalar librerias Librerias 
+### Instalar librerias  
 
 Ya instalado npm
 ```
@@ -75,7 +75,7 @@ $ CTRL+C
 ```
 
 ### Construir el proyecto
-Para detener el proyecto simplemente oprime estas teclas:
+Dentro del folder del proyecto ejecutar:
 ```
 $ npm run build
 ```
