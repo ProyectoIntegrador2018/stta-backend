@@ -41,25 +41,3 @@ Aplicación web que permite visualizar el estatus de los trámites escolares en 
 * [Github](https://github.com/ProyectoIntegrador2018/Sistema-de-Trazabilidad-de-Tramites-Escolares)
 * [Backlog](https://github.com/ProyectoIntegrador2018/Sistema-de-Trazabilidad-de-Tramites-Escolares/projects/2)
 * [Documentación](https://drive.google.com/drive/folders/15AvY0wG4RHUDM6egkHuAgLJnr3TcDuRj?usp=sharing)
-
-## Crear el proyecto
-
-1. Clonar el repositorio
-```
-$ git clone https://github.com/ProyectoIntegrador2018/stte-backend.git
-```
-## Correr el proyecto para desarrollo
-
-* pip
-
-Ya instalado si se está usando Python 2 >=2.7.9 o Python 3 >=3.4
-
-* Flask
-```
-$ pip install -U Flask
-```
-## Detener el proyecto
-Para detener el servidor simplemente oprime estas teclas:
-```
-$ CTRL+C
-```
