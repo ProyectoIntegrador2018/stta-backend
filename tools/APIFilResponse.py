@@ -43,8 +43,10 @@ class APIFilResponse:
 
     # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     DB_EXCEPTION = {
+        "-90":  {responseKey: -90, msgKey: "---Expired session---"},
+        "-91": {responseKey: -91, msgKey: "---Invalid token---"},
         "-101": {responseKey: -101, msgKey: "Tipo de usuario incorrecto"},
-        "-102": {responseKey: -102, msgKey: "La matricula no esta registrada"},
+        "-102": {responseKey: -102, msgKey: "El email no esta registrado"},
         "-103": {responseKey: -103, msgKey: "Contraseña incorrecta "},
         "-104": {responseKey: -104, msgKey: "La matricula ya esta registrada."},
         "-105": {responseKey: -105, msgKey: "El email ya esta registrado."},

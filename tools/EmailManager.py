@@ -21,7 +21,7 @@ class EmailManager:
         msg['Subject'] = "Restablece tu contraseña"
 
         msg.add_header('Content-Type', 'text/html')
-        body = "<a href=\"http://localhost:3000/rest/"+link+ "\"> Haz click aquí para restablecer tu contraseña</a>\n\n\n"
+        body = "<a href=\"http://localhost:3000/restaurar/"+link+ "\"> Haz click aquí para restablecer tu contraseña</a>\n\n\n"
         body = MIMEText(body, "html", _charset="utf-8")
         msg.set_payload(body)
 
